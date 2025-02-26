@@ -1,4 +1,4 @@
-# HoneyPot aka Mini Home SOC (Security Operations Center) in Azure
+# Honey Pot aka Mini Home SOC (Security Operations Center) in Azure
 
 A simple honeypot that logs attacks in real time. I built it by Azure’s free tier resources. Feel free to adapt or improve any part of this!
 
