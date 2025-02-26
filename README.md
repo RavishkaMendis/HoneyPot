@@ -58,6 +58,9 @@ A simple honeypot that logs attacks in real time. I built it by Azure’s free t
 
 ![Screenshot 2025-02-26 185241](https://github.com/user-attachments/assets/a2cd326e-bd86-440a-bee1-10b833ea360a)
 
+![image](https://github.com/user-attachments/assets/34ae2048-1f2f-48e9-8578-1e02f230376b)
+
+
 
 ## Azure Sentinel (SIEM)
 
@@ -66,5 +69,10 @@ A simple honeypot that logs attacks in real time. I built it by Azure’s free t
    - Used an open source .csv file and .json query to map the location of the attacks on Sentinal Workbooks.
 
 ![Screenshot 2025-02-26 185604](https://github.com/user-attachments/assets/514f7084-fe24-42f8-b089-51e54f333008)
+
+After 6 hours...
+
+![image](https://github.com/user-attachments/assets/f30fd67a-3d29-47fe-9579-449d47d32ef6)
+
 
 
